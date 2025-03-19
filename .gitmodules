@@ -1,0 +1,3 @@
+[submodule "ESP_Configurator_Server"]
+	path = ESP_Configurator_Server
+	url = https://github.com/HankB/ESP_Configurator_Server
