@@ -2,6 +2,10 @@
 
 Provide *nix server and ESP client to support configuration of an ESP or similar device.
 
+## 2025-03-19 Status
+
+* Still in the planning stage. Need to do some additional work with the existing projects before turning attention to this, so "later ..."
+
 ## 2025-03-19 Motivation
 
 I have projects that, for example, use an ESP32 to read and publish temperature from a DS18B20 temperature sensor. It's just awkward to have to recompile it for each sensor that I want to deploy. FDurther, I intend to deploy the sensors in multiple locations, each with their own configuration requirements such as WiFi creds(*) and MQTT broker.
