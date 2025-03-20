@@ -23,4 +23,4 @@ I have projects that, for example, use an ESP32 to read and publish temperature 
 
 ## Errata
 
-* 2025-03-19 This seems like a good project to manage using git subprojects - one for the server and another for the client.
+* 2025-03-19 This seems like a good project to manage using git submodules - one for the server and another for the client. Alas, I couild not grok how to push changes in a submodule so I'll back out of it.
