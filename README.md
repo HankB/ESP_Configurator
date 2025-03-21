@@ -1,10 +1,11 @@
 # ESP_Configurator
 
-Provide *nix server and ESP client to support configuration of an ESP or similar device.
+Provide *nix server and ESP client to support configuration of an ESP or similar device. See <https://github.com/HankB/ESP_Configurator_Server> for the server and <https://github.com/HankB/ESP_Configurator_Client> for the client.
 
-## 2025-03-19 Status
+## Status
 
-* Still in the planning stage. Need to do some additional work with the existing projects before turning attention to this, so "later ..."
+* 2025-03-21 work started on both server (reading UDP packets) and client (broadcasting the request.) Next step is to implement the configuration reply from the server.
+* 2025-03-19 Still in the planning stage. Need to do some additional work with the existing projects before turning attention to this, so "later ..."
 
 ## 2025-03-19 Motivation
 
